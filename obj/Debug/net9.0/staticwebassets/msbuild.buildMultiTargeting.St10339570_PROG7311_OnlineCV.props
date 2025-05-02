@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\St10339570_PROG7311_OnlineCV.props" />
+</Project>
