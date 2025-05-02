@@ -96,3 +96,4 @@ C:\Users\nicol\source\repos\St10339570_PROG7311_OnlineCV\obj\Debug\net9.0\St1033
 C:\Users\nicol\source\repos\St10339570_PROG7311_OnlineCV\obj\Debug\net9.0\St10339570_PROG7311_OnlineCV.genruntimeconfig.cache
 C:\Users\nicol\source\repos\St10339570_PROG7311_OnlineCV\obj\Debug\net9.0\ref\St10339570_PROG7311_OnlineCV.dll
 C:\Users\nicol\source\repos\St10339570_PROG7311_OnlineCV\obj\Debug\net9.0\compressed\3jkey1cb3z-hk2lcakoj9.gz
+C:\Users\nicol\source\repos\St10339570_PROG7311_OnlineCV\obj\Debug\net9.0\St10339570_PROG7311_OnlineCV.sourcelink.json
